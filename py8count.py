@@ -32,8 +32,11 @@ Ljetsleptons=[]
 Bjetsphotons=[]
 Bjetsleptons=[]
 
+# 14 TeV
+# Lumi1Mfb=2.575e+02*0.001
+# 13 TeV
+Lumi1Mfb=2.915e+02*0.001
 
-Lumi1Mfb=2.575e+02 *0.001
 
 combinations=[]  
 xdic={}
